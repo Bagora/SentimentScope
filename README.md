@@ -36,6 +36,7 @@
     pip install -r requirements.txt
 
 4. **Install the nltk github data**:
+    ```bash
     python -m nltk.downloader
     ```
 
